@@ -1,0 +1,6 @@
+framework module MessageDisplayKit {
+  umbrella header "MessageDisplayKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

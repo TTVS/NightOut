@@ -1,0 +1,31 @@
+PODS:
+  - AsyncDisplayKit (1.2.3):
+    - AsyncDisplayKit/ASDealloc2MainObject (= 1.2.3)
+  - AsyncDisplayKit/ASDealloc2MainObject (1.2.3)
+  - JSQMessagesViewController (7.1.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - MessageDisplayKit (5.0)
+  - PaperKit (0.5.7):
+    - pop (~> 1.0)
+  - pop (1.0.7)
+  - SwiftyJSON (2.3.0)
+
+DEPENDENCIES:
+  - AsyncDisplayKit
+  - JSQMessagesViewController
+  - MessageDisplayKit
+  - PaperKit
+  - pop
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AsyncDisplayKit: 5c8f38225f7478e39c48196cec0dd0d2ac3455ed
+  JSQMessagesViewController: ca11f86fa68ca70835f05e169df9244147c1dc40
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  MessageDisplayKit: d209e1ab8a59e22663376caafae023f011a0a9ba
+  PaperKit: 98d877e69f87871032594ed786ae3dbd2058bf9e
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  SwiftyJSON: 8d6b61a70277ef2a5d710d372e06e7e2d87fb9e4
+
+COCOAPODS: 0.38.2

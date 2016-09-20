@@ -1,0 +1,6 @@
+framework module PaperKit {
+  umbrella header "PaperKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
