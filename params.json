@@ -1,0 +1,6 @@
+{
+  "name": "Nightout",
+  "tagline": "Table Booking App for Night Clubs with Event Display",
+  "body": "# NightOut-iOS\r\nRepository for NightOut iOS app\r\nA demo of the current version of NightOut App, a table reservation app for night clubs made for DinoMedia.\r\n\r\n### Demo of the App\r\n![App Demo](http://gifyu.com/images/latestAppProgress.gif)\r\nhttps://youtu.be/PnRaA-CaNX8\r\n\r\n### Setup\r\nStep 1. Download FacebookSDK here https://developers.facebook.com/docs/ios/\r\nStep 2. Make sure it's under `~/Documents/FacebookSDK`\r\nStep 3. Use CocoaPods, do `pod install` in the root directory in Terminal\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
