@@ -2,7 +2,7 @@
 Repository for NightOut iOS app
 
 ### Demo of the App
-https://youtu.be/PnRaA-CaNX8
+https://youtu.be/VtYXMIx-GZQ
 
 ### Requirements
 1. Download FacebookSDK here https://developers.facebook.com/docs/ios/
