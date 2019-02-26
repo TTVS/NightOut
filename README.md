@@ -12,5 +12,5 @@ https://youtu.be/VtYXMIx-GZQ
 
 ### Demo
 
-![Output sample](https://github.com/TTVS/NightOut/blob/dev/video_demo/video_demo_1.gif)
-![Output sample](https://github.com/TTVS/NightOut/blob/dev/video_demo/video_demo_2.gif)
+![video_demo_1](https://github.com/TTVS/NightOut/blob/master/video_demo/video_demo_1.gif)
+![video_demo_2](https://github.com/TTVS/NightOut/blob/master/video_demo/video_demo_2.gif)
